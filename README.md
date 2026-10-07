@@ -39,3 +39,6 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
+[![License](https://img.shields.io/github/license/VBalintM/se-lab)]
+(https://ftsrg.mit.bme.hu/hu/)
+[![Java CI with Maven](https://github.com/VBalintM/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/VBalintM/se-lab/actions/workflows/maven.yml)
